@@ -42,8 +42,8 @@ Aplicativo Android para organizar agendamentos de uma barbearia, com cadastro, c
 
 ||||
 |:---:|:---:|:---:|
-| ![tela-1](https://github.com/satetbr/Barber-Agenda/assets/156530052/318091a2-c905-4b3e-af8b-10f0cf3625f4) | ![tela-2](https://github.com/user-attachments/assets/461d713e-4223-476b-afbf-7f0058349aea) | ![tela-3](https://github.com/user-attachments/assets/11a8887f-ddc3-419a-9b50-31fa726689ff) |
+| ![tela-1](https://github.com/user-attachments/assets/dba28072-bec5-46c6-addb-f43675b8ee04) | ![tela-2](https://github.com/user-attachments/assets/461d713e-4223-476b-afbf-7f0058349aea) | ![tela-3](https://github.com/user-attachments/assets/11a8887f-ddc3-419a-9b50-31fa726689ff) |
 
 ||||
 |:---:|:---:|:---:|
-| ![tela-4](https://github.com/user-attachments/assets/774f8f21-493d-4db2-8d43-e39208b0ebcf) | ![tela-5](https://github.com/satetbr/Barber-Agenda/assets/156530052/ba8d4ff4-3066-4dcb-baa4-148f598d50ce) | ![tela-6](https://github.com/satetbr/Barber-Agenda/assets/156530052/b53df8bb-68d3-4e55-89f5-3e6d03d94192) |
+| ![tela-4](https://github.com/user-attachments/assets/774f8f21-493d-4db2-8d43-e39208b0ebcf) | ![tela-5](https://github.com/user-attachments/assets/21e2ae64-f1f2-4f5f-ac85-266ea9f8dcef) | ![tela-6](https://github.com/user-attachments/assets/0c0b636a-b31b-48a9-8739-45de727cdbcb) |
